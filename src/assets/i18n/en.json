@@ -1,0 +1,16 @@
+{
+    "PAGES" : {
+        "EMPLOYEE_DETAIL" : {
+            "FIRSTNAME"  : "First Name" ,
+            "LASTNAME" : "Last Name"
+        } ,
+        "FEATURE_A" : {
+            "FIRSTNAME"  : "First Name A From File" ,
+            "LASTNAME" : "Last Name A"
+        } ,
+        "FEATURE_B" : {
+            "FIRSTNAME"  : "First Name B"  ,
+            "LASTNAME" : "Last Name B"
+        }
+    }
+}

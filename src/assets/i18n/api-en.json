@@ -1,0 +1,9 @@
+{
+    "PAGES" : {
+       
+        "FEATURE_A" : {
+            "LASTNAME" : "Last Name A From API"
+        } 
+       
+    }
+}
